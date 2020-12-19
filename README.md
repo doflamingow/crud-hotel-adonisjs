@@ -31,7 +31,7 @@ adonis migration:run
 
 Please the edited and create database .env.example and rename file .env.example to .env
 
-``
+```
 HOST=
 PORT=
 NODE_ENV=
