@@ -26,3 +26,24 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+### Migrations
+
+Please the edited and create database .env.example and rename file .env.example to .env
+
+``
+HOST=
+PORT=
+NODE_ENV=
+APP_NAME=
+APP_URL=http://${HOST}:${PORT}
+CACHE_VIEWS=false
+APP_KEY=
+DB_CONNECTION=
+DB_HOST=
+DB_PORT=
+DB_USER=
+DB_PASSWORD=
+DB_DATABASE=
+HASH_DRIVER=bcrypt
+```
